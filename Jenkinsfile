@@ -18,5 +18,8 @@ pipeline {
                 script {
                     docker.image('hello-world-app').run()
                 }
+            }
+
     }
+}
 }
