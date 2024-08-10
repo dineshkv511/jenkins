@@ -27,7 +27,7 @@ post {
                             </html>''',
                     to: 'dineshkv511@gmail.com',
                     from: 'dineshkumar.vdp@gmail.com',
-                    replyTo: 'dineshkumar.vdp@gmaildock.com',
+                    replyTo: 'dineshkumar.vdp@gmail.com',
                     mimeType: 'text/html'
                 )
             }
