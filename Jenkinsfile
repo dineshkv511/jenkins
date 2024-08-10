@@ -13,13 +13,5 @@ pipeline {
                 }
             }
         }
-        stage('Deploy') {
-            steps {
-                script {
-                    docker.image('hello-world-app').run()
-                }
-            }
-
-    }
 }
 }
